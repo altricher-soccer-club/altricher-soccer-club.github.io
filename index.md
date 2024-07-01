@@ -1,6 +1,5 @@
-# Bla bla
+# Altricher Soccer Club
 
-My para
+Wir spielen Foosball, fast immer Dienstags und oft auch Freitags.
 
-* This
-* That
+[info@altricher-soccer-Club.de](mailto:info@altricher-soccer-Club.de "Email-Adresse des Altricher Soccer Clubs")
