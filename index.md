@@ -8,4 +8,4 @@ Wir spielen Tischfussball (Foosball), fast immer am Dienstag ab 19:00 in Altrich
 
 Für neueste Infos empfehlen wir, bei der WhatsApp-Gruppe des ASC mitzumachen.
 
-Schicke eine eine Email an <a href="mailto:info@altricher-soccerclub.de?subject=WhatsApp-Gruppe">Email</a> um Mitglied zu werden.
+Schick uns eine <a href="mailto:info@altricher-soccerclub.de?subject=WhatsApp-Gruppe">Email</a> um Mitglied unserer WhatsApp-Gruppe zu werden.
