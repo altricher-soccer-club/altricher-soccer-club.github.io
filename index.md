@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Altricher Soccer Club (ASC)
+# Altricher Soccer Club<br>(ASC){: text-align: center;"
 
 Wir spielen Tischfussball (Foosball), fast immer am Dienstag ab 19:00 in Altrich, oft am Freitag ab 19:00, meist in Altrich, gelegentlich in Relingen bei Trier.
 
